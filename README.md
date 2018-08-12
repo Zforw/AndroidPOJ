@@ -4,7 +4,7 @@
    This library contains some codes of Android Project
    
 ### Author: Zforw Walker - Programmer
-`Windows10 Pro Android Studio            2018/8/12`
+`Microsoft Windows 10 Pro Android Studio            2018/8/12`
 
 
 
