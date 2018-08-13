@@ -1,4 +1,4 @@
-# INTENT  1.0
+# INTENT 
 
 ## Description
   This AndroidProjrct is used to acheive INTENT technogy--change the Activity to the other one.
@@ -7,6 +7,8 @@
   To download the apk,please open the path: apk/release/app-release.apk
 
 ## Detail_Info
+> * Version Code: 1.0
+> * Andoird API:Android 4.4(19)
 > * Alias: key0
 > * Validity: 25 years
 > * Orgination Unit: zforw.org
