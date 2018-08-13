@@ -4,7 +4,7 @@
   This AndroidProjrct is used to acheive INTENT technogy--change the Activity to the other one.
 
 ## Introdution
-  To download the apk,please open the file apk/release(debug)/build/app-release.apk(app-debug.apk)
+  To download the apk,please open the path: apk/release/build/app-release.apk(app-debug.apk)
 
 ## Detail_Info
 > * Alias: key0
