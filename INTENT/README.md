@@ -1,5 +1,4 @@
-# INTENT
-> * version code: 1.0
+# INTENT  1.0
 
 ## Description
   This AndroidProjrct is used to acheive INTENT technogy--change the Activity to the other one.
