@@ -1,10 +1,11 @@
 # INTENT
+> * version code: 1.0
 
 ## Description
   This AndroidProjrct is used to acheive INTENT technogy--change the Activity to the other one.
 
 ## Introdution
-  To download the apk,please open the path: apk/release/build/app-release.apk(app-debug.apk)
+  To download the apk,please open the path: apk/release/app-release.apk
 
 ## Detail_Info
 > * Alias: key0
