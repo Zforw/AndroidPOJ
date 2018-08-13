@@ -3,9 +3,16 @@
 ## Description
   This AndroidProjrct is used to acheive INTENT technogy--change the Activity to the other one.
 
-### Author:Zforw Walker
+## Introdution
+  To download the apk,please open the file apk/release(debug)/build/app-release.apk(app-debug.apk)
 
-`Upload: 2018/8/13`
+## Detail_Info
+> * Alias: key0
+> * Validity: 25 years
+> * Orgination Unit: Zforw.org
+> * Author: Zforw Walker
+> * Country Code: CHN
+> * Release Date：2018/8/13
 
 
 
