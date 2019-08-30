@@ -4,8 +4,7 @@
   This AndroidProjrct is used to acheive INTENT technogy--change the Activity to the other one.
 
 ## Introdution
-  To download the apk,please open the path: apk/release/app-release.apk
-  [前往](https://github.com/Zforw/AndroidPOJ/blob/master/INTENT/apk/release/app-release.apk "")
+  To download the apk,please open the path: [apk/release/app-release.apk](https://github.com/Zforw/AndroidPOJ/blob/master/INTENT/apk/release/app-release.apk "前往")
 
 ## Detail_Info
 > * Version Code: 1.0
