@@ -5,6 +5,7 @@
 
 ## Introdution
   To download the apk,please open the path: apk/release/app-release.apk
+  [前往](https://github.com/Zforw/AndroidPOJ/blob/master/INTENT/apk/release/app-release.apk "")
 
 ## Detail_Info
 > * Version Code: 1.0
